@@ -1,0 +1,25 @@
+{
+  "name": "redactor-plugin-drag-drop-image-base64",
+  "version": "1.0.0",
+  "description": "Redactor 3 Plugin inserting Drag & Dropped images with src as dataUrl",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petitchevalroux/redactor-plugin-drag-drop-image-base64.git"
+  },
+  "keywords": [
+    "redactor",
+    "wysiwig",
+    "base64",
+    "drap&drop"
+  ],
+  "author": "Partick Poulain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petitchevalroux/redactor-plugin-drag-drop-image-base64/issues"
+  },
+  "homepage": "https://github.com/petitchevalroux/redactor-plugin-drag-drop-image-base64#readme"
+}
